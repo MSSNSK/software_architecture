@@ -5,3 +5,17 @@ G
 Editor3D/model_store.py,6\4\6454ab7c53d42a22e8815706d51c81dfd16a5346
 K
 Editor3D/in_memory_model.py,c\b\cb6b95d438f42ed18d2802a2cd461b273d1da663
+Å
+Q.idea/sonarlint/securityhotspotstore/c/b/cb6b95d438f42ed18d2802a2cd461b273d1da663,e\f\efe7da317448338b7cbd295a7179137463b3cc9a
+I
+rewars_app/item_fabric.py,c\5\c5f923192ab25029fd7333129fb0c936928d8ccb
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/6/4/6454ab7c53d42a22e8815706d51c81dfd16a5346,0\6\06ff9393a70583c163ddbb94aa23cf65ecf7d0f7
+Å
+Q.idea/sonarlint/securityhotspotstore/5/b/5bb8507c7b635ee228992a0d92cec7d78d6d7e05,1\f\1fe85351acaf192c528515ada9cb6bb6563e062f
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+w
+G.idea/sonarlint/issuestore/5/b/5bb8507c7b635ee228992a0d92cec7d78d6d7e05,e\4\e4d94a1b84e4fc435b2218d909a44ffa760e2725
