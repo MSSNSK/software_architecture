@@ -31,3 +31,19 @@ N
 reward_app/rewards/__init__.py,d\e\debf8b8a7bd62e6bd0da5637813e0ae9ecac7811
 T
 $reward_app/rewards/reward_classes.py,b\b\bb029104a352c3e82b9bf0db406c8a9345dc4f97
+>
+car_app/car.py,1\9\1902e62f41f61bb9fae26f7615ae4dca98d54e22
+=
+HW3/task_1.py,3\9\399e38b25eee26cf7750b0064779bd51c20476c6
+=
+HW3/task_4.py,b\c\bc9f859a8c1c09be49dbb476c4129a0ccb6b2cf8
+=
+HW3/task_5.py,8\d\8dcf9dfebd3482b7714be18c6b2c2b0b09fd6473
+=
+HW3/task_2.py,9\7\974290811da5ebbf2dc0cd029e7fda028952a387
+=
+HW3/task_3.py,6\6\66eeeb67f471fa18af855847a0ebe9a931498186
+C
+car_app/__init__.py,5\7\5708a52793001d79bc368bc6da06b9ea82155400
+I
+car_app/abstract_class.py,d\2\d229d500d4b7fe2850baf1d674bf7438e10879c2
