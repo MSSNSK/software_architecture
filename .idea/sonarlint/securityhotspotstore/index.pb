@@ -47,3 +47,7 @@ C
 car_app/__init__.py,5\7\5708a52793001d79bc368bc6da06b9ea82155400
 I
 car_app/abstract_class.py,d\2\d229d500d4b7fe2850baf1d674bf7438e10879c2
+G
+ticket_system/ticket.py,2\9\29449b955ce52c66459e1229a2ccccbf806daaf6
+I
+ticket_system/__init__.py,1\4\1426bc1565b64f863dd445ab93cbf52070ec0fe2
